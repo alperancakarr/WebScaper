@@ -1,0 +1,962 @@
+[
+    {
+        "book_name": "Gökçen 3: Güz Yağmurları - Hediyeli Özel Kutu",
+        "stars": null,
+        "price": "239,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İnsanlığımı Yitirirken",
+        "stars": 5.0,
+        "price": "50,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yaşamak",
+        "stars": 5.0,
+        "price": "113,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir İdam Mahkumunun Son Günü",
+        "stars": 5.0,
+        "price": "31,20",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen - 3: Güz Yağmurları",
+        "stars": null,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Beyaz Leke",
+        "stars": null,
+        "price": "227,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gece Yarısı Kütüphanesi",
+        "stars": 4.7777777777778,
+        "price": "154,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen 2: Geride Kalanlar",
+        "stars": null,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Salkım Sokak No: 3",
+        "stars": null,
+        "price": "178,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Kibritle Yok Olmak 1 Özel Kutulu Set",
+        "stars": null,
+        "price": "255,36",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen 1: Unutulan Çiçekler",
+        "stars": 5.0,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Karışık Kaset",
+        "stars": null,
+        "price": "49,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Zul",
+        "stars": null,
+        "price": "104,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kazazede - 1 Kutulu Set",
+        "stars": null,
+        "price": "184,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen - 3: Güz Yağmurları",
+        "stars": null,
+        "price": "173,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Oyuncak Müzesi 1 Ciltli Özel Kutulu Set",
+        "stars": null,
+        "price": "255,36",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yanlış Numara",
+        "stars": null,
+        "price": "134,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Derviş Kelamı",
+        "stars": null,
+        "price": "110,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Taş Kağıt Makas",
+        "stars": null,
+        "price": "100,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İyileşme Zamanı",
+        "stars": null,
+        "price": "110,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kürk Mantolu Madonna",
+        "stars": 5.0,
+        "price": "22,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Beyaz Leke",
+        "stars": null,
+        "price": "209,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Hyunam-Dong Kitabevi",
+        "stars": null,
+        "price": "151,80",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Çalıntı Dokunuşlar",
+        "stars": null,
+        "price": "155,35",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Şeker Portakalı",
+        "stars": 5.0,
+        "price": "121,60",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Harry Potter ve Felsefe Taşı - 1",
+        "stars": 5.0,
+        "price": "130,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Emanet Aşk 2 - Silme Sendeki İzlerimi",
+        "stars": null,
+        "price": "155,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gurur ve Önyargı",
+        "stars": null,
+        "price": "68,25",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Evlilik Anlaşması",
+        "stars": null,
+        "price": "150,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Enkaz Altındakiler 2",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Demir Alev",
+        "stars": null,
+        "price": "385,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İçimizdeki Şeytan",
+        "stars": null,
+        "price": "32,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Medusa`nın Ölü Kumları 2",
+        "stars": null,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Azrail",
+        "stars": null,
+        "price": "97,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Gönül Davası",
+        "stars": null,
+        "price": "154,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Beyaz Zambaklar Ülkesinde",
+        "stars": null,
+        "price": "28,60",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Buzdan Kıvılcım Zirve Ötesi Serisi - 1",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kayıp Ruhlar Durağı",
+        "stars": null,
+        "price": "110,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gölgenin Güneşi 3 – Rütbe Meselesi",
+        "stars": null,
+        "price": "145,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Oyuncak Müzesi 1",
+        "stars": null,
+        "price": "197,76",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Gönül Davası Kutulu Set",
+        "stars": null,
+        "price": "174,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen 1: Unutulan Çiçekler",
+        "stars": null,
+        "price": "173,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Altıncı Koğuş",
+        "stars": null,
+        "price": "22,10",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İçinde Bir Sen 4 - Azlem",
+        "stars": null,
+        "price": "155,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gümüş Yürek 1: Kayıp Dünyanın Başlangıcı Özel Kutulu",
+        "stars": null,
+        "price": "300,16",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yüksek Uçuş",
+        "stars": null,
+        "price": "160,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Theo’yu Seçmek",
+        "stars": null,
+        "price": "114,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Öfke Kralı",
+        "stars": null,
+        "price": "147,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Emare - Sarmaşık",
+        "stars": 5.0,
+        "price": "197,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Aşk Masalı",
+        "stars": 5.0,
+        "price": "55,25",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Arayış",
+        "stars": null,
+        "price": "126,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kiraz Ağacı ile Aramızdaki Mesafe",
+        "stars": 5.0,
+        "price": "112,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Dorian Gray’in Portresi",
+        "stars": 5.0,
+        "price": "44,20",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İçinde Bir Sen 4 - Azlem",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bize Geri Dön",
+        "stars": null,
+        "price": "134,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yıldızlarda Saklı",
+        "stars": null,
+        "price": "110,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Tadında Aşk Var Kutu Set",
+        "stars": null,
+        "price": "184,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Her Kimsen",
+        "stars": null,
+        "price": "178,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yırtıcı",
+        "stars": null,
+        "price": "147,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ötanazi Okulu Kutulu Set",
+        "stars": 5.0,
+        "price": "813,60",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Esir Şehrin İnsanları",
+        "stars": null,
+        "price": "132,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kuyucaklı Yusuf",
+        "stars": 5.0,
+        "price": "31,20",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sonsuz Mutluluklar",
+        "stars": null,
+        "price": "115,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Her Kimsen",
+        "stars": null,
+        "price": "133,25",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sokak Nöbetçileri 4",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Veronika Ölmek İstiyor",
+        "stars": 5.0,
+        "price": "124,80",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yabancı",
+        "stars": null,
+        "price": "96,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Parçalanmış Ruhlar",
+        "stars": null,
+        "price": "130,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Emanet Aşk 2 - Silme Sendeki İzlerimi",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "4 Gün 3 Gece",
+        "stars": null,
+        "price": "110,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Medusa`nın Ölü Kumları - Hediyeli Özel Kutu",
+        "stars": null,
+        "price": "239,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Hizmetçi",
+        "stars": null,
+        "price": "164,45",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Filippo, Ben ve Kiraz Ağacı",
+        "stars": null,
+        "price": "84,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bronz",
+        "stars": null,
+        "price": "145,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Beyaz Geceler",
+        "stars": null,
+        "price": "31,20",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Fahrenheit 451",
+        "stars": null,
+        "price": "108,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Hepimiz Gökyüzü Olmak İstedik 2.5 Ejderha ve Yıldız - Ciltli",
+        "stars": null,
+        "price": "273,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Acıların Hükümdarı",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Dördüncü Kanat",
+        "stars": null,
+        "price": "220,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Momo",
+        "stars": null,
+        "price": "157,85",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ay Işığı Sokağı",
+        "stars": null,
+        "price": "19,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Serenad",
+        "stars": null,
+        "price": "168,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Otomatik Portakal",
+        "stars": null,
+        "price": "37,70",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Harry Potter ve Sırlar Odası - 2",
+        "stars": 5.0,
+        "price": "149,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Arafta Düet",
+        "stars": null,
+        "price": "124,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Visal - Ahu Döngüsü",
+        "stars": null,
+        "price": "142,45",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Göldeki Kadın",
+        "stars": null,
+        "price": "110,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Enkaz Altındakiler 2",
+        "stars": null,
+        "price": "155,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Daluyku – İs Serisi 5",
+        "stars": null,
+        "price": "123,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İhtilal 1 - Zelzele",
+        "stars": null,
+        "price": "176,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Tuvaldeki Yaralar",
+        "stars": 5.0,
+        "price": "126,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Icebreaker",
+        "stars": 5.0,
+        "price": "176,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sobe",
+        "stars": 5.0,
+        "price": "157,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İyi Bir Kızın Cinayet Rehberi",
+        "stars": null,
+        "price": "165,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Benim Olağanüstü Akıllı Arkadaşım",
+        "stars": null,
+        "price": "211,25",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Masumiyet Müzesi",
+        "stars": null,
+        "price": "195,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Hayvan Çiftliği",
+        "stars": 5.0,
+        "price": "48,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İki Şehrin Hikayesi",
+        "stars": null,
+        "price": "80,60",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sergüzeşt Günümüz Türkçesiyle",
+        "stars": null,
+        "price": "23,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ateşpare - 6 Hediyeli Özel Kutu",
+        "stars": null,
+        "price": "239,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Kibritle Yok Olmak 1",
+        "stars": null,
+        "price": "197,76",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Buzdan Kıvılcım Zirve Ötesi Serisi - 1",
+        "stars": null,
+        "price": "155,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yılan ve Gecenin Kanatları",
+        "stars": null,
+        "price": "175,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen 2: Geride Kalanlar",
+        "stars": null,
+        "price": "173,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gökçen İki Kitaplık Set",
+        "stars": null,
+        "price": "424,80",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sokak Nöbetçileri 3",
+        "stars": null,
+        "price": "197,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Körlük",
+        "stars": null,
+        "price": "179,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sol Ayağım",
+        "stars": null,
+        "price": "95,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yaralasar 3",
+        "stars": 5.0,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Harry Potter ve Azkaban Tutsağı - 3",
+        "stars": null,
+        "price": "195,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bülbülü Öldürmek",
+        "stars": 5.0,
+        "price": "147,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Av Serisi 4 - Lider",
+        "stars": null,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Aile İçi Cinayet",
+        "stars": null,
+        "price": "164,45",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gölgenin Güneşi 2 - Vatan Uğruna",
+        "stars": null,
+        "price": "140,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Saklı Gerçekler",
+        "stars": null,
+        "price": "133,25",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kalpsiz",
+        "stars": null,
+        "price": "155,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Siyam 3 - Küllerinden",
+        "stars": null,
+        "price": "207,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Emare - Pusula",
+        "stars": 5.0,
+        "price": "173,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "1984",
+        "stars": 5.0,
+        "price": "73,60",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kya`nın Şarkı Söylediği Yer",
+        "stars": 5.0,
+        "price": "124,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Değersiz Bir Hayat",
+        "stars": null,
+        "price": "351,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Doğu Ekspresinde Cinayet",
+        "stars": 5.0,
+        "price": "180,96",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Yere Yakın Yıldızlara Uzak",
+        "stars": 5.0,
+        "price": "119,10",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Tam Benim Tipim!",
+        "stars": null,
+        "price": "107,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Flört",
+        "stars": null,
+        "price": "160,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bitiş Çizgisi",
+        "stars": null,
+        "price": "125,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Karanlığın Şehri 3",
+        "stars": null,
+        "price": "197,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ağustosta Görüşürüz",
+        "stars": null,
+        "price": "83,20",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bronz 2 Kutulu",
+        "stars": null,
+        "price": "175,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bronz 2",
+        "stars": null,
+        "price": "145,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Dördüncü Kanat",
+        "stars": null,
+        "price": "357,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gölgenin Güneşi",
+        "stars": null,
+        "price": "132,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Davetiye",
+        "stars": null,
+        "price": "120,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ötanazi Okulu 3",
+        "stars": 5.0,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Siyam",
+        "stars": 5.0,
+        "price": "177,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sırça Fanus",
+        "stars": null,
+        "price": "138,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Karantina: Üçüncü Perde",
+        "stars": null,
+        "price": "143,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sefiller 2 Cilt Takım",
+        "stars": null,
+        "price": "195,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Issız Kar Taneleri",
+        "stars": null,
+        "price": "122,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kırmızı Pazartesi",
+        "stars": null,
+        "price": "96,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kızıl Veba",
+        "stars": 5.0,
+        "price": "27,30",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Nietzsche Ağladığında",
+        "stars": null,
+        "price": "210,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ben Kirke",
+        "stars": null,
+        "price": "150,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Molly Nerede",
+        "stars": null,
+        "price": "161,85",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Bir Kibritle Yok Olmak - 1",
+        "stars": null,
+        "price": "184,96",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Doksan Artı Dört - 2 Kutulu Set",
+        "stars": null,
+        "price": "179,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ateşpare 6",
+        "stars": null,
+        "price": "167,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Sen Ne Dilersen",
+        "stars": null,
+        "price": "197,76",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Mor Salkımlı Sokak",
+        "stars": null,
+        "price": "100,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "On Üç’ü Saklamak",
+        "stars": null,
+        "price": "197,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Maça Kızı 8 - 3. Kitap",
+        "stars": null,
+        "price": "219,70",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Vampir Lordu ile Düello",
+        "stars": null,
+        "price": "190,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Gece ve Sonra",
+        "stars": null,
+        "price": "148,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Doksan Artı Dört - 1",
+        "stars": null,
+        "price": "144,50",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İs Kokan Zeytin Ağacı",
+        "stars": null,
+        "price": "173,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Kırgın Fısıltılar",
+        "stars": null,
+        "price": "113,75",
+        "category": "Roman"
+    },
+    {
+        "book_name": "İhtilal 1 - Zelzele",
+        "stars": null,
+        "price": "154,00",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Son Sürat",
+        "stars": null,
+        "price": "161,85",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Ötanazi Okulu 4",
+        "stars": 4.66666666666665,
+        "price": "185,40",
+        "category": "Roman"
+    },
+    {
+        "book_name": "Çarpık Oyunlar",
+        "stars": 2.0,
+        "price": "175,00",
+        "category": "Roman"
+    }
+]
